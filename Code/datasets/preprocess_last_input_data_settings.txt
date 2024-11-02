@@ -1,0 +1,5 @@
+selected_data_folder: all_classes_original
+dup_n_seq_verbose_selection: t
+fp_seq_threshold: 15
+fp_seq: 30
+dup_flag: True
