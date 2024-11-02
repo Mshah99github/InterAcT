@@ -1,0 +1,43 @@
+MODEL_SIZE: 'nano'
+SAVED_MODEL_WEIGHTS_PATH: 'saved_model_weights'
+POS_EMB: null
+nano:        
+    N_HEADS: 1
+    N_LAYERS: 3
+    EMBED_DIM: 56
+    DROPOUT: 0.1
+    MLP: 96
+micro:        
+    N_HEADS: 1
+    N_LAYERS: 4
+    EMBED_DIM: 64
+    DROPOUT: 0.3
+    MLP: 256
+small:    
+    N_HEADS: 2
+    N_LAYERS: 5
+    EMBED_DIM: 128
+    DROPOUT: 0.3
+    MLP: 256
+base:
+    N_HEADS: 3
+    N_LAYERS: 6
+    EMBED_DIM: 192
+    DROPOUT: 0.3
+    MLP: 256
+large:
+    N_HEADS: 4
+    N_LAYERS: 6
+    EMBED_DIM: 256
+    DROPOUT: 0.4
+    MLP: 512
+
+CLASSES: ['handshaking','hugging','kicking','punching','pushing','clapping_solo','hitting_bottle_solo','hitting_stick_solo','jogging_f_b_solo','jogging_side_solo','kicking_solo','punching_solo','running_f_b_solo','running_side_solo','stabbing_solo','walking_f_b_solo','walking_side_solo','waving_hands_solo']
+NUM_CLASSES: 18
+BATCHSIZE : 192
+LR_RATE : 0.001
+WD : 0.000001
+EPOCHS: 500
+ACTIVATION_FUNCTION: 'gelu'
+OPTIMIZER: 'AdamW'
+VAL_FLAG: True
