@@ -159,7 +159,7 @@ The `Datasets` folder contains the preprocessed pose data, including training, t
 
 ---
 
-##InterAcT GUI Version:
+## InterAcT GUI Version:
 You can access the GUI version of **InterAcT** code through the following link:
 
 [InterAcT GUI Version](https://drive.google.com/file/d/1fgkv9yZ5eK0lO8dSPH2X3uOSL52v2ESZ/view?usp=sharing)
