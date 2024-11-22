@@ -1,3 +1,27 @@
+## Acknowledgments
+
+We would like to express our gratitude to the creators of the datasets, tools, and baseline models that were instrumental in this project:
+
+1. **UT-Interaction Dataset**  
+   - **Authors:** Ryoo, M. S. and Aggarwal, J. K.  
+   - **Link:** [UT-Interaction Dataset](https://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html)  
+
+2. **Drone-Action Dataset**  
+   - **Authors:** Asanka G. Perera, Yee Wei Law, Javaan Chahl  
+   - **Link:** [Drone-Action Dataset](https://asankagp.github.io/droneaction/)  
+
+3. **YOLOv8 Pose Model**  
+   - Developed by Ultralytics, providing state-of-the-art pose detection capabilities.  
+   - **Link:** [YOLOv8 Pose Model](https://docs.ultralytics.com/tasks/pose/#models)  
+
+4. **Baseline Model: Action Transformer (AcT)**  
+   - **Authors:** Mazzia, Vittorio; Angarano, Simone; Salvetti, Francesco; Angelini, Federico; Chiaberge, Marcello  
+   - **Link:** [Action Transformer (AcT)](https://github.com/PIC4SeR/AcT)  
+
+We deeply appreciate the efforts of these researchers and developers, whose work has been instrumental in advancing our project.
+
+---
+
 **Project Title :**
 InterAcT: A Generic Keypoints-Based Lightweight Transformer Model for Recognition of Human Solo Actions and Interactions in Aerial Videos
 
