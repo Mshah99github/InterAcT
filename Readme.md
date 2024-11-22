@@ -16,7 +16,7 @@ It is an activity recognition project which utilizes keypoints data, extracted f
 
 - Activate the virtual environment using the below commmand in VS Terminal:
 
-`myenv\Scripts\activate
+`virtual_environment_name\Scripts\activate`
 
 - Install libraries and dependencies using following command in VS Terminal:
 
