@@ -64,3 +64,78 @@ To use any of these blocks, set its flag to `True`. Set the flag to `False` if t
 ### Notes
 - Ensure the dataset and directories are properly configured before running the script.
 - Modify code parameters as needed to align with the dataset structure and desired configurations.
+
+### Steps for Running Inference:
+1. **Start the Inference GUI:**
+   - Run the `Inference_GUI.py` file to launch the inference interface.
+
+2. **Load Saved Model Weights:**
+   - Click the **"Browse Model Weights"** button and load the `proposed_model_weights.h5` file from the `inference` folder.
+   - Ensure the button border turns **BLUE** after loading the weights successfully.
+
+3. **Load Pose Extraction Model (YOLOv8):**
+   - Click the **"Browse Pose Model"** button and load the `yolov8n-pose.pt` file from the `inference` folder.
+   - Ensure the button border turns **BLUE** after loading the pose model successfully.
+
+4. **Load a Video for Inference:**
+   - Click the **"Browse Video"** button and select a video file from the `inference_sample_videos` folder within the `inference` directory. 
+   - Alternatively, load any solo_action or interaction video. Ensure the video filename starts with either **"solo"** or **"interaction"**, otherwise, inference will not work.
+
+5. **Note:**  
+   - If using a different variant of the InterAcT model with modified architecture or training settings, ensure both settings are updated in the initialization section of `Inference_GUI.py`.
+
+---
+
+## Datasets Folder Overview
+
+### Preprocessed Pose Data:
+The `Datasets` folder contains the preprocessed pose data, including training, testing, and validation sets used in the training and evaluation of the proposed model.
+
+#### 1. Preprocessed Data Splits:
+- **Training Set Percentage:** 80%  
+- **Test Set Percentage:** 10%  
+- **Validation Set Percentage:** 10%
+
+#### 2. Datasets:
+##### **(A) UT-INTERACTION**
+- **Action Category:** Interactions (Human-Human)  
+- **Number of Classes:** 5  
+- **Classes Names:**  
+  - handshaking  
+  - hugging  
+  - kicking  
+  - punching  
+  - pushing  
+- **Download Link:**  
+  [UT-Interaction Dataset](https://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html)
+
+##### **(B) DRONE-ACTION**
+- **Action Category:** Solo/Single Person Actions  
+- **Number of Classes:** 13  
+- **Classes Names:**  
+  - clapping  
+  - hitting_bottle  
+  - hitting_stick  
+  - jogging_front_back_view  
+  - jogging_sideview  
+  - kicking  
+  - punching  
+  - running_front_back_view  
+  - running_sideview  
+  - stabbing  
+  - walking_front_back_view  
+  - walking_sideview  
+  - waving_hands  
+- **Download Link:**  
+  [Drone-Action Dataset](https://drive.google.com/file/d/15F-hX33kELHDkvnv-lkbPyAvPCF6Ohz9/view?usp=sharing)
+
+---
+
+### 3. Usage Instructions:
+#### (A) Using Preprocessed Data in the Proposed Model:
+- Copy the `.npy` files from the `train_test_validation_data` folder to the `datasets` folder (create if it does not exist).
+
+#### (B) Using Preprocessed Data in Other Models:
+- Copy the `.npy` files from the `train_test_validation_data` folder to the desired directory for use in your model.
+
+---
