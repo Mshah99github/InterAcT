@@ -1,6 +1,6 @@
 ## Acknowledgments
 
-We would like to express our gratitude to the creators of the datasets, tools, and baseline models that were instrumental in this project:
+We would like to express our gratitude to the creators of the datasets, tools, and baseline models that were utilized in this project:
 
 1. **UT-Interaction Dataset**  
    - **Authors:** Ryoo, M. S. and Aggarwal, J. K.  
@@ -18,12 +18,13 @@ We would like to express our gratitude to the creators of the datasets, tools, a
    - **Authors:** Mazzia, Vittorio; Angarano, Simone; Salvetti, Francesco; Angelini, Federico; Chiaberge, Marcello  
    - **Link:** [Action Transformer (AcT)](https://github.com/PIC4SeR/AcT)  
 
-We deeply appreciate the efforts of these researchers and developers, whose work has been instrumental in advancing our project.
+We deeply appreciate the efforts of these researchers and developers, whose work laid the foundation for this project.
 
 ---
 
 **Project Title :**
 InterAcT: A Generic Keypoints-Based Lightweight Transformer Model for Recognition of Human Solo Actions and Interactions in Aerial Videos
+
 
 **Project Description:** 
 It is an activity recognition project which utilizes keypoints data, extracted from RGB videos using YOLO v8 pose estimation model. This project introduce a generic transformer model known as InterAcT, capable of recognizing solo human actions as well as human-human interactions in aerial videos.
