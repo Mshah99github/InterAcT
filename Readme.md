@@ -14,6 +14,10 @@ It is an activity recognition project which utilizes keypoints data, extracted f
 
 `python -m venv virtual_environment_name`
 
+- Activate the virtual environment using the below commmand in VS Terminal:
+
+`myenv\Scripts\activate
+
 - Install libraries and dependencies using following command in VS Terminal:
 
 `pip install -r requirements.txt`
