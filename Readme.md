@@ -127,7 +127,8 @@ The `Datasets` folder contains the preprocessed pose data, including training, t
   - walking_sideview  
   - waving_hands  
 - **Download Link:**  
-  [Drone-Action Dataset](https://drive.google.com/file/d/15F-hX33kELHDkvnv-lkbPyAvPCF6Ohz9/view?usp=sharing)
+  [Drone-Action Dataset](https://asankagp.github.io/droneaction/)
+  *Note:* Drone Action dataset can be requested on the above link.
 
 ---
 
