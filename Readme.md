@@ -29,6 +29,12 @@ InterAcT: A Generic Keypoints-Based Lightweight Transformer Model for Recognitio
 **Project Description:** 
 It is an activity recognition project which utilizes keypoints data, extracted from RGB videos using YOLO v8 pose estimation model. This project introduce a generic transformer model known as InterAcT, capable of recognizing solo human actions as well as human-human interactions in aerial videos.
 
+## InterAcT GUI Version
+
+You can access the GUI version of **InterAcT** through the following link:
+
+[InterAcT GUI Version](https://drive.google.com/file/d/1fgkv9yZ5eK0lO8dSPH2X3uOSL52v2ESZ/view?usp=sharing)
+
 **Requirements and Dependencies:**
 - Python Version: 3.9.9
 - IDE: Visual Studio (VS)
