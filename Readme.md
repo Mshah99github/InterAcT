@@ -12,7 +12,8 @@ It is an activity recognition project which utilizes keypoints data, extracted f
 **Virtual Environment Creation and Installing Dependencies:**
 - Create Virtual Environment using following command in VS Terminal:
 
-```python -m venv virtual_environment_name
+`python -m venv virtual_environment_name`
+
 - Install libraries and dependencies using following command in VS Terminal:
 
-```pip install -r requirements.txt
+`pip install -r requirements.txt`
