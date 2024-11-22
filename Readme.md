@@ -17,3 +17,4 @@ It is an activity recognition project which utilizes keypoints data, extracted f
 - Install libraries and dependencies using following command in VS Terminal:
 
 `pip install -r requirements.txt`
+*Note: requirements.txt file can be found in "Code" directory* 
