@@ -10,7 +10,9 @@ It is an activity recognition project which utilizes keypoints data, extracted f
 - Operating System: Windows 
 
 **Virtual Environment Creation and Installing Dependencies:**
-- Create Virtual Environment using following command in VS Terminal:```
+- Create Virtual Environment using following command in VS Terminal:
+```bash
 python -m venv virtual_environment_name
 - Install libraries and dependencies using following command in VS Terminal:```
+```bash
 pip install -r requirements.txt
