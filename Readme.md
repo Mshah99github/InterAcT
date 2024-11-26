@@ -157,13 +157,6 @@ The `Datasets` folder contains the preprocessed pose data, including training, t
   [Drone-Action Dataset](https://asankagp.github.io/droneaction/)
   *Note:* Drone Action dataset can be requested on the provided link.
 
----
-
-## InterAcT GUI Version:
-You can access the GUI version of **InterAcT** code through the following link:
-
-[InterAcT GUI Version](https://drive.google.com/file/d/1fgkv9yZ5eK0lO8dSPH2X3uOSL52v2ESZ/view?usp=sharing)
-
 ### 3. Usage Instructions:
 #### (A) Using Preprocessed Data in the Proposed Model:
 - Copy the `.npy` files from the `train_test_validation_data` folder to the `datasets` folder (create if it does not exist).
@@ -172,3 +165,9 @@ You can access the GUI version of **InterAcT** code through the following link:
 - Copy the `.npy` files from the `train_test_validation_data` folder to the desired directory for use in your model.
 
 ---
+---
+
+## InterAcT GUI Version:
+You can access the GUI version of **InterAcT** code through the following link:
+
+[InterAcT GUI Version](https://drive.google.com/file/d/1fgkv9yZ5eK0lO8dSPH2X3uOSL52v2ESZ/view?usp=sharing)
