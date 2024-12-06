@@ -7,7 +7,7 @@ We would like to express our gratitude to the creators of the datasets, tools, a
    |:-------------------------------------------------------------------------------------------------------------------------------:|
    | *Figure 1. Sample image frames of human-human interaction classes from the UT Interaction dataset.* |
 
-   - **Reference:** [IEEE Xplore](https://ieeexplore.ieee.org/document/5459361)  
+   - **Reference:** Ryoo MS, Aggarwal JK. Spatio-temporal relationship match: Video structure comparison for recognition of complex human activities. [IEEE Xplore](https://ieeexplore.ieee.org/document/5459361)  
    - **Download Link:** [UT-Interaction Dataset](https://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html)  
 
 3. **Drone-Action Dataset**
@@ -16,7 +16,7 @@ We would like to express our gratitude to the creators of the datasets, tools, a
    | *Figure 2. Sample image frames of solo action classes from the Drone Action dataset.* |
 
 
-   - **Reference:** [MDPI](https://www.mdpi.com/2504-446X/3/4/82)  
+   - **Reference:** Perera AG, Law YW, Chahl J. Drone-Action: An Outdoor Recorded Drone Video Dataset for Action Recognition. [MDPI](https://www.mdpi.com/2504-446X/3/4/82)  
    - **Download Link:** [Drone-Action Dataset](https://asankagp.github.io/droneaction/)  
 
 4. **YOLOv8 Pose Model**  
