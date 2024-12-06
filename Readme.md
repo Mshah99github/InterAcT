@@ -24,7 +24,7 @@ We would like to express our gratitude to the creators of the datasets, tools, a
    - **Download Link:** [YOLOv8 Pose Model](https://docs.ultralytics.com/tasks/pose/#models)  
 
 5. **Baseline Model: Action Transformer (AcT)**  
-   - **Reference:** Mazzia V, Angarano S, Salvetti F, Angelini F, Chiaberge M. Action Transformer: A self-attention model for short-time pose-based human action recognition. Pattern Recognit [Internet]. 2022;124:108487. Available from: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0031320321006634  
+   - **Reference:** [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0031320321006634)  
    - **Download Link:** [Action Transformer (AcT)](https://github.com/PIC4SeR/AcT)  
 
 We deeply appreciate the efforts of these researchers and developers, whose work laid the foundation for this project.
