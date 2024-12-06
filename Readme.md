@@ -16,7 +16,7 @@ We would like to express our gratitude to the creators of the datasets, tools, a
    | *Figure 2. Sample image frames of solo action classes from the Drone Action dataset.* |
 
 
-   - **Reference:** Perera AG, Law YW, Chahl J. Drone-Action: An Outdoor Recorded Drone Video Dataset for Action Recognition. Drones [Internet]. 2019;3(4). Available from: [https://www.mdpi.com/2504-446X/3/4/82](https://www.mdpi.com/2504-446X/3/4/82)  
+   - **Reference:** [MDPI](https://www.mdpi.com/2504-446X/3/4/82)  
    - **Download Link:** [Drone-Action Dataset](https://asankagp.github.io/droneaction/)  
 
 4. **YOLOv8 Pose Model**  
