@@ -2,14 +2,18 @@
 
 We would like to express our gratitude to the creators of the datasets, tools, and baseline models that were utilized in this project:
 
-1. **UT-Interaction Dataset**  
+1. **UT-Interaction Dataset**
+   | ![Fig 4b - Sample Images of UT Interaction dataset](https://github.com/user-attachments/assets/3647cbc8-5b5e-4bf2-935a-59cfb3986277)
+   |:-------------------------------------------------------------------------------------------------------------------------------:|
+   | *Figure 1. Sample image frames of human-human interaction classes from the UT Interaction dataset.* |
+
    - **Authors:** Ryoo, M. S. and Aggarwal, J. K.  
    - **Download Link:** [UT-Interaction Dataset](https://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html)  
 
-2. **Drone-Action Dataset**
+3. **Drone-Action Dataset**
    | ![Fig 4a - Sample Images of Drone Action dataset-min](https://github.com/user-attachments/assets/29c77b1e-8961-4382-97c1-1df260946349) |
    |:-------------------------------------------------------------------------------------------------------------------------------:|
-   | *Figure 1. Sample image frames of solo action classes from the Drone Action dataset.* |
+   | *Figure 2. Sample image frames of solo action classes from the Drone Action dataset.* |
 
 
    - **Reference:** Perera AG, Law YW, Chahl J. Drone-Action: An Outdoor Recorded Drone Video Dataset for Action Recognition. Drones [Internet]. 2019;3(4). Available from: [https://www.mdpi.com/2504-446X/3/4/82](https://www.mdpi.com/2504-446X/3/4/82)  
