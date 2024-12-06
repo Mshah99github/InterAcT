@@ -4,11 +4,11 @@ We would like to express our gratitude to the creators of the datasets, tools, a
 
 1. **UT-Interaction Dataset**  
    - **Authors:** Ryoo, M. S. and Aggarwal, J. K.  
-   - **Link:** [UT-Interaction Dataset](https://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html)  
+   - **Download Link:** [UT-Interaction Dataset](https://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html)  
 
 2. **Drone-Action Dataset**  
-   - **Authors:** Asanka G. Perera, Yee Wei Law, Javaan Chahl  
-   - **Link:** [Drone-Action Dataset](https://asankagp.github.io/droneaction/)  
+   - **Reference:** Perera AG, Law YW, Chahl J. Drone-Action: An Outdoor Recorded Drone Video Dataset for Action Recognition. Drones [Internet]. 2019;3(4). Available from: [https://www.mdpi.com/2504-446X/3/4/82](https://www.mdpi.com/2504-446X/3/4/82)  
+   - **Download Link:** [Drone-Action Dataset](https://asankagp.github.io/droneaction/)  
 
 3. **YOLOv8 Pose Model**  
    - Developed by Ultralytics, providing state-of-the-art pose detection capabilities.  
