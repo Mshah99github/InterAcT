@@ -7,7 +7,7 @@ We would like to express our gratitude to the creators of the datasets, tools, a
    |:-------------------------------------------------------------------------------------------------------------------------------:|
    | *Figure 1. Sample image frames of human-human interaction classes from the UT Interaction dataset.* |
 
-   - **Reference:** Available from: [IEEE Xplore](https://ieeexplore.ieee.org/document/5459361)  
+   - **Reference:** [IEEE Xplore](https://ieeexplore.ieee.org/document/5459361)  
    - **Download Link:** [UT-Interaction Dataset](https://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html)  
 
 3. **Drone-Action Dataset**
