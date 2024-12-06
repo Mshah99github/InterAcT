@@ -6,15 +6,17 @@ We would like to express our gratitude to the creators of the datasets, tools, a
    - **Authors:** Ryoo, M. S. and Aggarwal, J. K.  
    - **Download Link:** [UT-Interaction Dataset](https://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html)  
 
-2. **Drone-Action Dataset**  
+2. **Drone-Action Dataset**
+   ![Fig 4a - Sample Images of Drone Action dataset-min](https://github.com/user-attachments/assets/29c77b1e-8961-4382-97c1-1df260946349)
+
    - **Reference:** Perera AG, Law YW, Chahl J. Drone-Action: An Outdoor Recorded Drone Video Dataset for Action Recognition. Drones [Internet]. 2019;3(4). Available from: [https://www.mdpi.com/2504-446X/3/4/82](https://www.mdpi.com/2504-446X/3/4/82)  
    - **Download Link:** [Drone-Action Dataset](https://asankagp.github.io/droneaction/)  
 
-3. **YOLOv8 Pose Model**  
+4. **YOLOv8 Pose Model**  
    - Developed by Ultralytics, providing state-of-the-art pose detection capabilities.  
    - **Link:** [YOLOv8 Pose Model](https://docs.ultralytics.com/tasks/pose/#models)  
 
-4. **Baseline Model: Action Transformer (AcT)**  
+5. **Baseline Model: Action Transformer (AcT)**  
    - **Authors:** Mazzia, Vittorio; Angarano, Simone; Salvetti, Francesco; Angelini, Federico; Chiaberge, Marcello  
    - **Link:** [Action Transformer (AcT)](https://github.com/PIC4SeR/AcT)  
 
