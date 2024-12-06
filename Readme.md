@@ -7,9 +7,10 @@ We would like to express our gratitude to the creators of the datasets, tools, a
    - **Download Link:** [UT-Interaction Dataset](https://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html)  
 
 2. **Drone-Action Dataset**
-   |![Fig 4a - Sample Images of Drone Action dataset-min](https://github.com/user-attachments/assets/29c77b1e-8961-4382-97c1-1df260946349)|
-   |:------------------------------------------------:|
+   | ![Fig 4a - Sample Images of Drone Action dataset-min](https://github.com/user-attachments/assets/29c77b1e-8961-4382-97c1-1df260946349) |
+|:-------------------------------------------------------------------------------------------------------------------------------:|
 | *Figure 1. Solo action classes from the Drone Action dataset.* |
+
 
    - **Reference:** Perera AG, Law YW, Chahl J. Drone-Action: An Outdoor Recorded Drone Video Dataset for Action Recognition. Drones [Internet]. 2019;3(4). Available from: [https://www.mdpi.com/2504-446X/3/4/82](https://www.mdpi.com/2504-446X/3/4/82)  
    - **Download Link:** [Drone-Action Dataset](https://asankagp.github.io/droneaction/)  
