@@ -7,7 +7,7 @@ We would like to express our gratitude to the creators of the datasets, tools, a
    |:-------------------------------------------------------------------------------------------------------------------------------:|
    | *Figure 1. Sample image frames of human-human interaction classes from the UT Interaction dataset.* |
 
-   - **Authors:** Ryoo, M. S. and Aggarwal, J. K.  
+   - **Reference:** Ryoo MS, Aggarwal JK. UT-Interaction Dataset, ICPR contest on Semantic Description of Human Activities (SDHA). 2010. Available from: [UT-Interaction Dataset](https://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html)
    - **Download Link:** [UT-Interaction Dataset](https://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html)  
 
 3. **Drone-Action Dataset**
