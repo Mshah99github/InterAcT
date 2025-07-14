@@ -1,5 +1,5 @@
 ## InterAcT: A generic keypoints-based lightweight transformer model for recognition of human solo actions and interactions in aerial videos
-This repository contains the official TensorFlow implementation of InterAcT, our proposed model from the paper:
+This repository contains the official TensorFlow implementation of the paper titled,
 **"InterAcT: A Generic Keypoints-based Transformer Model for Recognizing Solo and Interactions in Aerial Videos for Security and Surveillance Applications."**
 
 InterAcT is a lightweight, Transformer model designed for recognition of human solo actions and interactions in aerial videos using YOLOv8 2D pose keypoints. It outperforms several state-of-the-art models on benchmark datasets such as **UT-Interaction** and **Drone-Action**.
@@ -25,7 +25,7 @@ If you use this work, please consider citing the paper.
 
 ## Acknowledgments
 
-We would like to express our gratitude to the creators of the datasets, tools, and baseline models that were utilized in this project:
+We would like to express our gratitude to the creators of the datasets, tools, and baseline models that were utilized in this study:
 
 1. **UT-Interaction Dataset**
    | ![Fig 4b - Sample Images of UT Interaction dataset](https://github.com/user-attachments/assets/3647cbc8-5b5e-4bf2-935a-59cfb3986277)
@@ -52,7 +52,7 @@ We would like to express our gratitude to the creators of the datasets, tools, a
    - **Reference:** [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0031320321006634)  
    - **Download Link:** [Action Transformer (AcT)](https://github.com/PIC4SeR/AcT)  
 
-We deeply appreciate the efforts of these researchers and developers, whose work laid the foundation for this project.
+We deeply appreciate the efforts of these researchers and developers, whose work laid the foundation for this research study.
 
 ---
 ## InterAcT Code Guidelines
