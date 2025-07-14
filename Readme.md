@@ -8,7 +8,7 @@ The code, pre-trained weights, and evaluation scripts are provided for reproduci
 If you use this work, please consider citing the paper.
 
 **Citations:**
-
+```bibtex
 @article{Shah2025InterAcT,
   author    = {Mubashir Shah and Tahir Nawaz and Rab Nawaz and Nasir Rashid and Muhammad Osama Ali},
   title     = {InterAcT: A generic keypoints-based lightweight transformer model for recognition of human solo actions and interactions in aerial videos},
@@ -21,6 +21,7 @@ If you use this work, please consider citing the paper.
   doi       = {10.1371/journal.pone.0323314},
   url       = {https://doi.org/10.1371/journal.pone.0323314}
 }
+```bibtex
 
 ## Acknowledgments
 
