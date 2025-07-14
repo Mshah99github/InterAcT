@@ -20,7 +20,7 @@ If you use this work, please consider citing the paper.
   publisher = {Public Library of Science},
   doi       = {10.1371/journal.pone.0323314},
   url       = {https://doi.org/10.1371/journal.pone.0323314}
-}
+}'''
 
 ## Acknowledgments
 
