@@ -1,6 +1,7 @@
 ## InterAcT: A generic keypoints-based lightweight transformer model for recognition of human solo actions and interactions in aerial videos
+
 This repository contains the official TensorFlow implementation of the paper titled,
-**"InterAcT: A Generic Keypoints-based Transformer Model for Recognizing Solo and Interactions in Aerial Videos for Security and Surveillance Applications."**
+**[InterAcT: A Generic Keypoints-based Transformer Model for Recognizing Solo and Interactions in Aerial Videos for Security and Surveillance Applications](https://doi.org/10.1371/journal.pone.0323314)**.
 
 InterAcT is a lightweight, Transformer model designed for recognition of human solo actions and interactions in aerial videos using YOLOv8 2D pose keypoints. It outperforms several state-of-the-art models on benchmark datasets such as **UT-Interaction** and **Drone-Action**.
 
