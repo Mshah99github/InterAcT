@@ -1,3 +1,27 @@
+## InterAcT: A generic keypoints-based lightweight transformer model for recognition of human solo actions and interactions in aerial videos
+This repository contains the official TensorFlow implementation of InterAcT, our proposed model from the paper:
+**"InterAcT: A Generic Keypoints-based Transformer Model for Recognizing Solo and Interactions in Aerial Videos for Security and Surveillance Applications."**
+
+InterAcT is a lightweight, Transformer model designed for recognition of human solo actions and interactions in aerial videos using YOLOv8 2D pose keypoints. It outperforms several state-of-the-art models on benchmark datasets such as **UT-Interaction** and **Drone-Action**.
+
+The code, pre-trained weights, and evaluation scripts are provided for reproducibility.
+If you use this work, please consider citing the paper.
+
+**Citations:**
+
+@article{Shah2025InterAcT,
+  author    = {Mubashir Shah and Tahir Nawaz and Rab Nawaz and Nasir Rashid and Muhammad Osama Ali},
+  title     = {InterAcT: A generic keypoints-based lightweight transformer model for recognition of human solo actions and interactions in aerial videos},
+  journal   = {PLOS ONE},
+  volume    = {20},
+  number    = {5},
+  pages     = {e0323314},
+  year      = {2025},
+  publisher = {Public Library of Science},
+  doi       = {10.1371/journal.pone.0323314},
+  url       = {https://doi.org/10.1371/journal.pone.0323314}
+}
+
 ## Acknowledgments
 
 We would like to express our gratitude to the creators of the datasets, tools, and baseline models that were utilized in this project:
@@ -30,14 +54,6 @@ We would like to express our gratitude to the creators of the datasets, tools, a
 We deeply appreciate the efforts of these researchers and developers, whose work laid the foundation for this project.
 
 ---
-
-**Project Title :**
-InterAcT: A Generic Keypoints-Based Lightweight Transformer Model for Recognition of Human Solo Actions and Interactions in Aerial Videos
-
-
-**Project Description:** 
-It is an activity recognition project which utilizes keypoints data, extracted from RGB videos using YOLO v8 pose estimation model. This project introduce a generic transformer model known as InterAcT, capable of recognizing solo human actions as well as human-human interactions in aerial videos.
-
 ## InterAcT Code Guidelines
 
 **Requirements and Dependencies:**
